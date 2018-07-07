@@ -1,2 +1,5 @@
-Gitチューリアル
+#Gitチューリアル
+
 -feature-A
+−fix−B
+
