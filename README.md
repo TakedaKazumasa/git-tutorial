@@ -1,5 +1,3 @@
 #Gitチューリアル
 
--feature-A
-−fix−B
-feature-C
+19:22 commit
